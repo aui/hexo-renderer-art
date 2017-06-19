@@ -1,5 +1,5 @@
 {
-  "name": "art-renderer-art",
+  "name": "hexo-renderer-art",
   "version": "0.0.1",
   "description": "art-template renderer plugin for Hexo",
   "main": "index",
